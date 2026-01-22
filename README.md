@@ -1,38 +1,39 @@
 # Enterprise Product Analytics System
 
-## 📌 Project Overview
-This project is an end-to-end data analytics solution built for a product-based company to support strategic business decision-making using SQL, Python, Power BI, and Excel.
+## Project Goal
+Develop a complete data analytics system for a product-based company
+to support business decision-making.
 
-## 🎯 Business Problems Solved
-- Identify top-selling and least-selling products across regions
-- Predict stock-out timelines for warehouses
-- Analyze impact of discounts on sales and revenue
-- Segment customers and identify churn risk
-- Evaluate marketing campaign performance
+## Business Problems Solved
+- Top and least selling products by region
+- Stock-out forecasting and inventory alerts
+- Impact of discounts on sales and revenue
+- High-value and churn-risk customers
+- Marketing campaign performance analysis
 
-## 🛠️ Tools & Technologies
-- SQL (MySQL/PostgreSQL)
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+## Tools & Technologies
+- SQL
+- Python
 - Power BI
-- Microsoft Excel
+- Excel
 
-## 📊 Key Features
-- 10+ advanced SQL analytical queries
-- Data cleaning, EDA, forecasting, and customer segmentation in Python
-- Interactive 5-page Power BI dashboard
-- Excel pivot-based reporting and reorder recommendations
+## Deliverables
+- SQL scripts for analysis
+- Python notebooks for EDA & forecasting
+- Power BI dashboards (5 pages)
+- Excel analytics file
+- Detailed project report
 
-## 📁 Project Structure
-- **SQL/** –    Database schema and analytical queries
-- **Python/** – Data cleaning, EDA, forecasting notebooks
-- **PowerBI/**  Dashboard (.pbix)
-- **Excel/** –  Business analysis sheets
-- **Report/** –  Detailed project documentation
+## Screenshots
+![Overall Sales Dashboard](overview.png)<img width="1314" height="733" alt="Screenshot 2026-01-22 172144" src="https://github.com/user-attachments/assets/476f2797-13ec-4a08-b58c-833373ab7737" />
 
-## 🚀 Outcome
-- Improved visibility into sales, inventory, and customer behavior
-- Business-ready dashboards and insights for decision-making
+![Product Performance](product_performance.png)<img width="1343" height="742" alt="Screenshot 2026-01-22 172202" src="https://github.com/user-attachments/assets/a84230bf-d8f8-4e41-877e-bcd6f1a5d3e8" />
 
-## 👤 Author
-Syed Burhan 
-Aspiring Data Analyst | SQL | Python | Power BI ! Ms Excel.
+{Inventory and stock alerts]<img width="1324" height="742" alt="Screenshot 2026-01-22 172219" src="https://github.com/user-attachments/assets/198576d8-fc67-4092-870b-49a3939943ff" />
+
+[Customer Analysis]  <img width="1315" height="736" alt="Screenshot 2026-01-22 172236" src="https://github.com/user-attachments/assets/5b5ac2e0-9a85-4ee3-b746-1fb5f01aac7c" />
+
+
+
+
+
